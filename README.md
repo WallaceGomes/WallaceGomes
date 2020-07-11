@@ -2,7 +2,7 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WallaceGomes)](https://github.com/WallaceGomes)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-cardoso-gomes/)](https://www.linkedin.com/in/wallace-cardoso-gomes/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacecardosogomes@gmail.com)](mailto:wallacecardosogomesa@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacecardosogomes@gmail.com)](mailto:wallacecardosogomes@gmail.com)
 
 ## Heeey, tudo bem?  👋
 
