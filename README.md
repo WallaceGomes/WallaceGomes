@@ -1,16 +1,17 @@
-### Hi there 👋
+# :octocat: Wallace Cardoso Gomes
 
-<!--
-**WallaceGomes/WallaceGomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/WallaceGomes)](https://github.com/WallaceGomes)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wallace-cardoso-gomes/)](https://www.linkedin.com/in/wallace-cardoso-gomes/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wallacecardosogomes@gmail.com)](mailto:wallacecardosogomesa@gmail.com)
 
-Here are some ideas to get you started:
+## Heeey, tudo bem?  👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu nome é Wallace, sou formado em Análise e Desenvolvimento de Sistemas, já trabalhei em muitos lugares por aí mas desde o início do curso decidi que iria me dedicar o máximo que posso à area de desenvolvimento, que gosto desde pequeno.
+Então aqui você pode ver alguns projetos pessoais, saber oque estou estudando e até pegar algumas dicas de código caso esteja começando na jornada.
+
+Ainda não trabalho na área mas estou me dedicando para fazer acontecer, estudo todos os dias e estou focado 100% no objetivo de seguir a carreira de desenvolvimento.
+
+Obrigado por visitar o meu perfil e fique à vontade para entrar com contato comigo se desejar!
+
+- ⚛ Techs: React.js, React Native, Node.js, TypeScript...
+- 📚 Estudando através do bootcamp da **Rocketseat** e outros projetos pessoais
