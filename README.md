@@ -6,10 +6,22 @@
 
 ## Olá, tudo bem?  👋
 
-Meu nome é Wallace, sou formado em Análise e Desenvolvimento de Sistemas, já trabalhei em muitos lugares por aí mas desde o início do curso decidi que iria me dedicar o máximo que posso à area de desenvolvimento, que gosto desde pequeno.
-Então aqui você pode ver alguns projetos pessoais, saber oque estou estudando e até pegar algumas dicas de código caso esteja começando na jornada.
+Meu nome é Wallace, sou formado em Análise e Desenvolvimento de Sistemas, e atualmente trabalho como desenvolvedor fullstack mas estou me dedicando para me especializar em backend.
+Então aqui você pode ver alguns projetos pessoais, saber oque estou estudando e até pegar algumas dicas de código caso esteja começando sua jornada.
 
-Atualmente me dedico ao React.js, React Native, Node.js e Typescript. Estudo todos os dias e estou focado 100% no objetivo de seguir a carreira de desenvolvimento.
+Atualmente me dedico ao Node.js(com Typescript e Javascript), React.js, React Native. Estudo todos os dias e estou focado 100% no objetivo de evoluir minha carreira de desenvolvimento.
 
 Obrigado por visitar o meu perfil e fique à vontade para entrar com contato comigo se desejar!
 
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img src="https://github-readme-stats.vercel.app/api?username=WallaceGomes&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
+</details>
+
+<details>
+  <summary>:zap: Languages Used</summary>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WallaceGomes&layout=compact&bg_color=ffffff&text_color=333333">
+</details>
+<br/>
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/WallaceGomes)](https://github.com/WallaceGomes)
